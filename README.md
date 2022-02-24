@@ -4,10 +4,10 @@
 ### 6210612542
 
 # function requiremented
-1. create Note   
-2. edit note   
-3. save note by back button   
-4. delete note by holdclick
-5. open on mobile and tablet   
+- create Note   
+- edit note   
+- save note by back button   
+- delete note by holdclick
+- open on mobile and tablet   
 
-demo
+demo [link](https://www.youtube.com/watch?v=gfUk5MPcS9o)
